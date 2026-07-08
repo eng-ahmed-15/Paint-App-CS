@@ -1,0 +1,33 @@
+C:\Users\Notebook\Desktop\paint\paint\bin\Debug\paint.exe.config
+C:\Users\Notebook\Desktop\paint\paint\bin\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint\paint\bin\Debug\paint.pdb
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.Form1.resources
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.pdb
+C:\Users\Notebook\Desktop\paint\paint\obj\Debug\paint.FormAbout.resources
+C:\Users\Notebook\Desktop\paint - Copy\paint\bin\Debug\paint.exe.config
+C:\Users\Notebook\Desktop\paint - Copy\paint\bin\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint - Copy\paint\bin\Debug\paint.pdb
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.Form1.resources
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.FormAbout.resources
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint - Copy\paint\obj\Debug\paint.pdb
+C:\Users\Notebook\Desktop\paint Full edition\paint\bin\Debug\paint.exe.config
+C:\Users\Notebook\Desktop\paint Full edition\paint\bin\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint Full edition\paint\bin\Debug\paint.pdb
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.Form1.resources
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.FormAbout.resources
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.Properties.Resources.resources
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.csproj.GenerateResource.cache
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.exe
+C:\Users\Notebook\Desktop\paint Full edition\paint\obj\Debug\paint.pdb
